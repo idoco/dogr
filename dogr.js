@@ -1,4 +1,4 @@
-var dogeImgURL = 'http://i.imgur.com/gGAEn7a.png'
+var dogeImgURL = 'http://barkpost-assets.s3.amazonaws.com/wp-content/uploads/2013/11/plainDoge-700x525.jpg'
 var canvas = document.getElementById('canvas');
 var ctx = canvas.getContext('2d');
 var fontSize = 20;

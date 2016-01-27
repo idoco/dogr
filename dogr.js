@@ -4,7 +4,7 @@ var ctx = canvas.getContext('2d');
 var fontSize = 30;
 var imageWidth,
     imageHeight;
-var palette = ['darkcyan', 'turquoise', 'maroon', 'navy', 'red', 'green', 'fuchsia', 'crimson', 'indigo', 'yellow'];
+var palette = ['darkslategrey', 'navy', 'red', 'green', 'fuchsia', 'indigo', 'chartreuse'];
 var img = new Image();
 
 function loadDoge(){

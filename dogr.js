@@ -41,10 +41,13 @@ function writeAllDogeContent(){
 
 function prefillTextArea(){
     var lines = [
-        'wow',
-        'such sample',
-        'much text',
-        'very try long line example'
+	'amaze',
+	'wow',
+	'many dev',
+	'much ops',
+	'so continues',
+	'such integration',
+	'very very'
     ];
     document.getElementById('textarea').value = lines.join('\n');
 }

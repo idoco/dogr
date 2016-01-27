@@ -1,7 +1,7 @@
 var dogeImgURL = 'http://barkpost-assets.s3.amazonaws.com/wp-content/uploads/2013/11/plainDoge-700x525.jpg'
 var canvas = document.getElementById('canvas');
 var ctx = canvas.getContext('2d');
-var fontSize = 20;
+var fontSize = 40;
 var imageWidth,
     imageHeight;
 var palette = ['darkcyan', 'turquoise', 'maroon', 'navy', 'red', 'green', 'fuchsia', 'crimson', 'indigo', 'yellow'];
